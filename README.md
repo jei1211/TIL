@@ -11,4 +11,5 @@
 
 ### Pre-Onboarding
 
-- [증감-연산자](Pre-Onboarding/증감-연산자.md)
+- [2022.11.07](Pre-Onboarding/2022.11.07.md)
+- [2022.11.08](Pre-Onboarding/2022.11.08.md)
