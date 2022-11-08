@@ -9,7 +9,7 @@
 
 ---
 
-### Javascript
+### Pre-Onboarding
 
 - [비교-연산자](Pre-Onboarding/비교-연산자.md)
 - [논리-연산자](Pre-Onboarding/논리-연산자.md)
